@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaProjectMypage3</string>
+    <string name="srt_change">정보 수정</string>
+    <string name="hint_password">변경할 패스워드를 입력하세요</string>
+    <string name="hint_password2">변경할 패스워드를 한 번 더 입력하세요</string>
+    <string name="hint_email">변경할 이메일을 입력하세요</string>
+    <string name="hint_name">변경할 닉네임을 입력하세요</string>
+
+</resources>
